@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js",
-    "git-update": "git add. && git commit -m\"update\" && git push"
+    "git-update": "git add. && git commit -m\"update\" && git push",
+    "star-prod":"node server.js"
   },
   "keywords": [],
   "author": "",
